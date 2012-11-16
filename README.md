@@ -2,11 +2,15 @@ Flood
 =====
 Flood is a puzzle game implemented with HTML5/CSS3/Javascript technology. 
 
-Author: Dale Schouten <dale.a.schouten@intel.com>
-
 Important App Files
 ---------------------------
 * index.html
+* abstract.txt
+* app.json
+* config.xml
+* icon.png
+* README.md
+* screenshot.png
 
 License Information Follows
 ---------------------------
@@ -36,12 +40,4 @@ GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
 HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
 LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT 
 OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-IMAGES
------------------------------------------------------------------------------
-
-all images are created by Intel Corp. 
-they are licensed under the Creative Commons Attribution 3.0 license 
-http://creativecommons.org/licenses/by/3.0/us/
 
